@@ -1,5 +1,5 @@
-name: geekycanner
-description: A new Flutter project.
+name: barcode scanner
+description: A Flutter project using barcode scanner package. Shows barcode text on home screen after scanning.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
