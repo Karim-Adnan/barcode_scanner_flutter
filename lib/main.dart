@@ -50,7 +50,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: new Text('GeekyScanner', textAlign: TextAlign.center),
+        title: new Text('<text here>', textAlign: TextAlign.center),
         backgroundColor: Colors.deepPurpleAccent,
       ),
       body: Center(
